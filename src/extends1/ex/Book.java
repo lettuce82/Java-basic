@@ -1,4 +1,4 @@
-package extends11.ex;
+package extends1.ex;
 
 public class Book extends Item{
     private String author;

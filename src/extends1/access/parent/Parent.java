@@ -1,4 +1,4 @@
-package extends11.access.parent;
+package extends1.access.parent;
 
 public class Parent {
     public int publicValue;

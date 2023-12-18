@@ -1,9 +1,10 @@
-package extends11.super1;
+package extends1.access;
 
-public class SuperMain {
+import extends1.access.child.Child;
+
+public class ExtendsAccessMain {
     public static void main(String[] args) {
         Child child = new Child();
         child.call();
-
     }
 }

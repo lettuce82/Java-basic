@@ -1,6 +1,6 @@
-package extends11.access.child;
+package extends1.access.child;
 
-import extends11.access.parent.Parent;
+import extends1.access.parent.Parent;
 
 public class Child extends Parent {
     public void call() {
